@@ -1,0 +1,17 @@
+.btn__submit {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: unset;
+  transition-duration: 0.3s;
+}
+.btn__submit:hover {
+  background-color: rgb(255, 217, 0);
+}
+.user__form {
+  margin-right: 10px;
+}
+.user__form__auth {
+    margin-top: 20px;
+}
+
